@@ -1,0 +1,12 @@
+
+DBH::disconnect
+ start_time: Sun Jun 17 18:42:32 2018
+$VAR1 = [];
+
+DBH::disconnect
+ start_time: Sun Jun 17 18:45:19 2018
+$VAR1 = [];
+
+DBH::disconnect
+ start_time: Fri Jul 13 09:14:30 2018
+$VAR1 = [];

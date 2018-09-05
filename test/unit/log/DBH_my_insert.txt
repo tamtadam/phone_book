@@ -1,0 +1,350 @@
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:38:37 2018
+$VAR1 = [
+          {
+            'insert' => {
+                          'LastName' => 'lastname',
+                          'Email' => 'asdf',
+                          'ForName' => 'forname'
+                        },
+            'table' => 'user'
+          }
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:38:37 2018
+$VAR1 = 'INSERT INTO user ( LastName, Email, ForName ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:38:37 2018
+$VAR1 = [
+          'lastname',
+          'asdf',
+          'forname'
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:38:37 2018
+$VAR1 = [
+          {
+            'table' => 'user',
+            'insert' => {
+                          'ForName' => 'forname2',
+                          'Email' => 'email2',
+                          'LastName' => 'lastname2'
+                        }
+          }
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:38:37 2018
+$VAR1 = 'INSERT INTO user ( ForName, Email, LastName ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:38:37 2018
+$VAR1 = [
+          'forname2',
+          'email2',
+          'lastname2'
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:00 2018
+$VAR1 = [
+          {
+            'insert' => {
+                          'LastName' => 'lastname',
+                          'Email' => 'asdf',
+                          'ForName' => 'forname'
+                        },
+            'table' => 'user'
+          }
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:00 2018
+$VAR1 = 'INSERT INTO user ( LastName, Email, ForName ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:00 2018
+$VAR1 = [
+          'lastname',
+          'asdf',
+          'forname'
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:01 2018
+$VAR1 = [
+          {
+            'table' => 'user',
+            'insert' => {
+                          'ForName' => 'forname2',
+                          'Email' => 'email2',
+                          'LastName' => 'lastname2'
+                        }
+          }
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:01 2018
+$VAR1 = 'INSERT INTO user ( ForName, Email, LastName ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:01 2018
+$VAR1 = [
+          'forname2',
+          'email2',
+          'lastname2'
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:08 2018
+$VAR1 = [
+          {
+            'table' => 'user',
+            'insert' => {
+                          'LastName' => 'lastname',
+                          'ForName' => 'forname',
+                          'Email' => 'asdf'
+                        }
+          }
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:08 2018
+$VAR1 = 'INSERT INTO user ( LastName, ForName, Email ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:08 2018
+$VAR1 = [
+          'lastname',
+          'forname',
+          'asdf'
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:09 2018
+$VAR1 = [
+          {
+            'insert' => {
+                          'Email' => 'email2',
+                          'ForName' => 'forname2',
+                          'LastName' => 'lastname2'
+                        },
+            'table' => 'user'
+          }
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:09 2018
+$VAR1 = 'INSERT INTO user ( Email, ForName, LastName ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:09 2018
+$VAR1 = [
+          'email2',
+          'forname2',
+          'lastname2'
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:34 2018
+$VAR1 = [
+          {
+            'insert' => {
+                          'ForName' => 'forname',
+                          'LastName' => 'lastname',
+                          'Email' => 'asdf'
+                        },
+            'table' => 'user'
+          }
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:34 2018
+$VAR1 = 'INSERT INTO user ( ForName, LastName, Email ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:34 2018
+$VAR1 = [
+          'forname',
+          'lastname',
+          'asdf'
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:34 2018
+$VAR1 = [
+          {
+            'table' => 'user',
+            'insert' => {
+                          'ForName' => 'forname2',
+                          'Email' => 'email2',
+                          'LastName' => 'lastname2'
+                        }
+          }
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:34 2018
+$VAR1 = 'INSERT INTO user ( ForName, Email, LastName ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:39:34 2018
+$VAR1 = [
+          'forname2',
+          'email2',
+          'lastname2'
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:40:25 2018
+$VAR1 = [
+          {
+            'table' => 'user',
+            'insert' => {
+                          'LastName' => 'lastname',
+                          'ForName' => 'forname',
+                          'Email' => 'asdf'
+                        }
+          }
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:40:25 2018
+$VAR1 = 'INSERT INTO user ( LastName, ForName, Email ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:40:25 2018
+$VAR1 = [
+          'lastname',
+          'forname',
+          'asdf'
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:40:25 2018
+$VAR1 = [
+          {
+            'insert' => {
+                          'ForName' => 'forname2',
+                          'LastName' => 'lastname2',
+                          'Email' => 'email2'
+                        },
+            'table' => 'user'
+          }
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:40:25 2018
+$VAR1 = 'INSERT INTO user ( ForName, LastName, Email ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:40:25 2018
+$VAR1 = [
+          'forname2',
+          'lastname2',
+          'email2'
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:53:14 2018
+$VAR1 = [
+          {
+            'insert' => {
+                          'LastName' => 'lastname',
+                          'ForName' => 'forname',
+                          'Email' => 'asdf'
+                        },
+            'table' => 'user'
+          }
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:53:14 2018
+$VAR1 = 'INSERT INTO user ( LastName, ForName, Email ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:53:14 2018
+$VAR1 = [
+          'lastname',
+          'forname',
+          'asdf'
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:53:14 2018
+$VAR1 = [
+          {
+            'insert' => {
+                          'LastName' => 'lastname2',
+                          'ForName' => 'forname2',
+                          'Email' => 'email2'
+                        },
+            'table' => 'user'
+          }
+        ];
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:53:14 2018
+$VAR1 = 'INSERT INTO user ( LastName, ForName, Email ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Thu Jun 28 21:53:14 2018
+$VAR1 = [
+          'lastname2',
+          'forname2',
+          'email2'
+        ];
+
+DBH::my_insert
+ start_time: Sat Jun 30 19:39:08 2018
+$VAR1 = [
+          {
+            'insert' => {
+                          'ForName' => 'forname',
+                          'Email' => 'asdf',
+                          'LastName' => 'lastname'
+                        },
+            'table' => 'user'
+          }
+        ];
+
+DBH::my_insert
+ start_time: Sat Jun 30 19:39:08 2018
+$VAR1 = 'INSERT INTO user ( ForName, Email, LastName ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Sat Jun 30 19:39:08 2018
+$VAR1 = [
+          'forname',
+          'asdf',
+          'lastname'
+        ];
+
+DBH::my_insert
+ start_time: Sat Jun 30 19:39:08 2018
+$VAR1 = [
+          {
+            'insert' => {
+                          'LastName' => 'lastname2',
+                          'ForName' => 'forname2',
+                          'Email' => 'email2'
+                        },
+            'table' => 'user'
+          }
+        ];
+
+DBH::my_insert
+ start_time: Sat Jun 30 19:39:08 2018
+$VAR1 = 'INSERT INTO user ( LastName, ForName, Email ) VALUES (  ?,  ?,  ? )';
+
+DBH::my_insert
+ start_time: Sat Jun 30 19:39:08 2018
+$VAR1 = [
+          'lastname2',
+          'forname2',
+          'email2'
+        ];
